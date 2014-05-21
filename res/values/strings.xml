@@ -4913,4 +4913,7 @@
 
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
     <string name="supersu_title">SuperSU</string>
+
+    <string name="system_cache_title">DexOpt /system to /cache</string>
+    <string name="system_cache_summary">Puts the dalvik-cache of things in /system on /cache instead of /data</string>
 </resources>
